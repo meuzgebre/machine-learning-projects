@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Collection of machine learning projects implements using python
+Collection of machine learning projects implemented using python
